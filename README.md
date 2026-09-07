@@ -1,4 +1,6 @@
-# 📋 TaskMaster is a Trello-inspired task management app that helps users organize projects, assign tasks to team members, and track progress efficiently. 
+📋 TaskMaster App
+
+# 📋 TaskMaster App is a Trello-inspired task management app that helps users organize projects, assign tasks to team members, and track progress efficiently. 
 Built with Firebase for authentication and real-time data management,it supports collaborative planning with customizable task cards.
 
 # ✨ Features
