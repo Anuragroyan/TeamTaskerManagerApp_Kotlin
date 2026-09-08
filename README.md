@@ -140,29 +140,3 @@ TaskMaster can be used by:
 * 🏢 Small businesses
 
 A team can create a project, break it into tasks, assign responsibilities, update task statuses, and track overall project progress from one workspace.
-
-🎯 Project Goals
-
-* Build a practical task management application
-* Demonstrate modern Android development
-* Implement Firebase Authentication
-* Implement Cloud Firestore data management
-* Practice CRUD operations
-* Implement real-time data synchronization
-* Apply MVVM and Repository architecture
-* Build a collaborative project management experience
-
-💼 Portfolio Highlights
-
-TaskMaster demonstrates practical experience with:
-
-* Kotlin & Jetpack Compose
-* Firebase Authentication
-* Cloud Firestore
-* MVVM Architecture
-* Repository Pattern
-* CRUD Operations
-* Real-time Data Synchronization
-* Kotlin Coroutines
-* State Management
-* Modern Android UI Development
